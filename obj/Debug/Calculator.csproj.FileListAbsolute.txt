@@ -1,0 +1,15 @@
+C:\Users\guilh\OneDrive\Documentos\code_projects\c#\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\guilh\OneDrive\Documentos\code_projects\c#\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\guilh\OneDrive\Documentos\code_projects\c#\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\guilh\OneDrive\Documentos\code_projects\c#\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\code_projects\c#\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\guilh\OneDrive\Documentos\code_projects\c#\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\Users\guilh\OneDrive\Documentos\code_projects\c#\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\guilh\OneDrive\Documentos\code_projects\c#\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\guilh\OneDrive\Documentos\code_projects\c#\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\code_projects\c#\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\guilh\OneDrive\Documentos\code_projects\c#\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\guilh\OneDrive\Documentos\code_projects\c#\Calculator\Calculator\bin\Debug\Calculator.exe.manifest
+C:\Users\guilh\OneDrive\Documentos\code_projects\c#\Calculator\Calculator\bin\Debug\Calculator.application
+C:\Users\guilh\OneDrive\Documentos\code_projects\c#\Calculator\Calculator\obj\Debug\Calculator.exe.manifest
+C:\Users\guilh\OneDrive\Documentos\code_projects\c#\Calculator\Calculator\obj\Debug\Calculator.application
